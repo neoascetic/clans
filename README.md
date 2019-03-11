@@ -1,21 +1,9 @@
 # Clans
 
-**TODO: Add description**
+Clans server:
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `clans` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:clans, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/clans](https://hexdocs.pm/clans).
-
+- create a clan (the creator will become the leader)
+- invite to a clan (invited user can accept or refuse the invite)
+- kick from a clan (obviously)
+- transfer leadership
+- get the list of clans in which the user is a member (and if he is a leader)
